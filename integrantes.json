@@ -1,0 +1,20 @@
+[
+    {
+        "foto": "nathan.jpg",
+        "nome": "Nathan Uflacker",
+        "cargo": "Engenheiro de Software",
+        "linkedin": "https://www.linkedin.com/in/nathan-u-b08247134/"
+    },
+    {
+        "foto": "eduardo.jpg",
+        "nome": "Eduardo Mazelli",
+        "cargo": "Engenheiro de Software",
+        "linkedin": "https://www.linkedin.com/in/eduardo-mazelli/"
+    },
+    {
+        "foto": "edson.jpg",
+        "nome": "Edson Leonardo",
+        "cargo": "Engenheiro de Software",
+        "linkedin": "https://www.linkedin.com/in/edson-leonardo-4b500a289/"
+    }
+]
