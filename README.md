@@ -1,4 +1,4 @@
-# GS-Python
+# EcoSystems Data Analysis
 
 INTEGRANTES:
 - Edson Leonardo Pacheco Navia - 553737;
