@@ -5,6 +5,8 @@ INTEGRANTES:
 - Eduardo Mazelli - 553236;
 - Nathan da Silveira Uflacker - 553264.
 
+LINK VIDEO:
+https://youtu.be/XNlDwLau04I
 
 FUNCIONALIDADES:
 
