@@ -6,7 +6,7 @@ INTEGRANTES:
 - Nathan da Silveira Uflacker - 553264.
 
 LINK VIDEO:
-https://youtu.be/XNlDwLau04I
+https://youtu.be/J4NiV2JL8Rw
 
 FUNCIONALIDADES:
 
