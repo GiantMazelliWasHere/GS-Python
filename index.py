@@ -58,7 +58,7 @@ def analise(arquvio, oceano, dia_inicial, mes_inicial, ano_inicial, dia_final, m
     df.loc[(df['Oceano'] == oceano) & (df['pH'] >= 3) & (df['pH'] <= 6) | (df['Temperatura'] > 4) & (df['Temperatura'] < 5) , 'Status'] = 'Alerta'
     df.loc[(df['Oceano'] == oceano) & (df['pH'] < 3) | (df['Temperatura'] > 5) , 'Status'] = 'Perigo'
 
-    df_final = df[(df['Ano'] >= ano_inicial) & (df['Ano'] <= ano_final) & (df['Mês']>= mes_inicial) & (df['Mês'] <= mes_final) & (df['Dia'] >= dia_inicial) & (df['Dia'] <= dia_final)]
+    df_final = df[(df['Oceano'] == oceano) & (df['Ano'] >= ano_inicial) & (df['Ano'] <= ano_final) & (df['Mês']>= mes_inicial) & (df['Mês'] <= mes_final) & (df['Dia'] >= dia_inicial) & (df['Dia'] <= dia_final)]
 
     return df_final
 
